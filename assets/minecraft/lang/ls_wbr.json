@@ -2204,7 +2204,7 @@
   "death.attack.inFire.player": "%1$s walked into fire whilst fighting %2$s",
   "death.attack.onFire": "%1$s burned to death",
   "death.attack.onFire.player": "%1$s was burnt to a crisp whilst fighting %2$s",
-  "death.attack.lava": "%1$s tried to swim in lava",
+  "death.attack.lava": "%1$s ist in Lava ersoffen. Japux währe das nicht passiert!",
   "death.attack.lava.player": "%1$s tried to swim in lava to escape %2$s",
   "death.attack.hotFloor": "%1$s discovered the floor was lava",
   "death.attack.hotFloor.player": "%1$s walked into danger zone due to %2$s",
