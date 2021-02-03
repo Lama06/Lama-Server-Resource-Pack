@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "pack_format": 6,
+        "description": "Rescource Pack der WeberGMBH"
+    },
+    "language": {
+        "ls_wbr": {
+            "name": "Weberisch",
+            "region": "Lama Town"
+        }
+    }
+}
